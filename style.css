@@ -1,0 +1,58 @@
+body{
+	background: #777;
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size 18px;
+	width: 960px;
+	text-align: center;
+
+}	
+
+header, 
+nav,  
+footer,
+section,
+aside{
+	background: #ebebeb; 
+	margin-top: 10px;
+}	
+
+header, nav, footer{
+	padding: 30px;
+}
+
+.floatLeft{
+	float: left;	
+	height: 350px;
+	width: 495px;
+	margin-bottom: 10px;
+
+}
+
+article{
+	background-color: #777;
+	padding: 10px; 
+	margin: 40px 20px 20px 20px;
+}
+
+.headers{
+	background: #ebebeb; 
+	padding: 30px;
+}
+
+aside{
+	float: right;
+	height: 350px;
+	width: 450px;
+	margin-bottom: 10px;
+}
+
+span{
+	margin-top : 20px;
+	display: block
+}
+
+footer{
+	clear: both;
+}
